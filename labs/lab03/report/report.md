@@ -1,8 +1,8 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+title: "Лабораторная работа №2"
+subtitle: ""
+author: "Сунгурова Мариян Мухсиновна"
 
 ## Generic otions
 lang: ru-RU
